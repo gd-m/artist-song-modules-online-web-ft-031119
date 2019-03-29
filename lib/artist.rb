@@ -16,7 +16,7 @@ class Artist
 #    self.class.all << self
     super
     @songs = []
-    
+
   end
 
 #  def self.find_by_name(name)
